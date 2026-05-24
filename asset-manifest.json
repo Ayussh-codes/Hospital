@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Hospital-Queue/static/css/main.e77515b5.css",
+    "main.js": "/Hospital-Queue/static/js/main.2a4e4ba0.js",
+    "static/js/453.20359781.chunk.js": "/Hospital-Queue/static/js/453.20359781.chunk.js",
+    "index.html": "/Hospital-Queue/index.html",
+    "main.e77515b5.css.map": "/Hospital-Queue/static/css/main.e77515b5.css.map",
+    "main.2a4e4ba0.js.map": "/Hospital-Queue/static/js/main.2a4e4ba0.js.map",
+    "453.20359781.chunk.js.map": "/Hospital-Queue/static/js/453.20359781.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e77515b5.css",
+    "static/js/main.2a4e4ba0.js"
+  ]
+}
